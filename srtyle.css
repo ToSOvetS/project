@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{
+    background-color: #caf0f8;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.lev{
+    display: flex;
+    flex-direction: column;
+}
+.osn{
+    display: flex;
+    justify-content: space-between;
+}
+.news{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 600px;
+    height: auto;
+    background-color: #00b4d8;
+    border: solid;
+    border-radius: 1rem;
+    border-color: #caf0f8;
+    border: solid;
+    border-radius: 1rem;
+}
+header{
+    margin-top: 0px;
+    background-color: #90e0ef;
+    border: solid;
+    border-radius: 1rem;
+    border-color: #caf0f8;
+}
+.nazv{
+    font-family: "Pacifico", cursive;
+    text-align: center;
+    width: 300px;
+    height: 170px;
+    font-size: 50px;
+    background-color: #03045E;
+    color: white;
+    border: solid;
+    border-radius: 1rem;
+    border-color: #90e0ef;
+}
+.verh{
+    height: 180px;
+    margin-top: 0px;
+}
+.v{
+    margin-top: -70px;
+}
+.p{
+    margin-top: 0px;
+}
+.zag{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.txt{
+    color: grey;
+    margin-left: 10px;
+    opacity: 0.67;
+    font-size: 25px;
+}
+.zag2{
+    text-align: center;
+    font-size:  40px;
+}
+.prav{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 120px;
+}
+main{
+    margin-top: 100px;
+}
+.one:hover .fi{
+    color: black;
+    opacity: 1;
+}
+.two:hover .se{
+    color: black;
+    opacity: 1;
+}
+.thi:hover .th{
+    color: black;
+    opacity: 1;
+}
+.one1:hover .fi1{
+    color: black;
+    opacity: 1;
+}
+.two1:hover .se1{
+    color: black;
+    opacity: 1;
+}
+.thi1:hover .th1{
+    color: black;
+    opacity: 1;
+}
+.hee{
+    margin-right: -120px;
+}
+.cen{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.cyber{
+    font-size: 200px;
+    margin-bottom: 500px;
+}
+.fa-computer{
+    font-size: 600px;
+    color: #00b4d8;
+    animation: joi 5s infinite ease-in-out;
+}
+.his{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 300px;
+}
+.int{
+    text-align: center;
+    font-size: 70px;
+}
+.pa{
+    width: auto;
+    height: 10px;
+    background-color: #03045E;
+    position: relative;
+    top: 70px;
+}
+.lot{
+    font-size: 40px;
+    position: relative;
+    right: 200px;
+    bottom: 100px;
+}
+.l1{
+    bottom: 280px;
+}
+.l3{
+    bottom: 280px;
+}
+.l5{
+    bottom: 280px;
+}
+.l2{
+    top: 80px;
+}
+.l4{
+    top: 80px;
+}
+.l6{
+    top: 80px;
+}
+.c1{
+    margin-left: 100px;
+}
+.c6{
+    margin-right: 50px;
+}
+
+.fac{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.st{
+    margin-top: 300px;
+}
+.zag1{
+    text-align: center;
+    font-size: 50px;
+}
+.text{
+    width: 800px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    border-radius: 1rem;
+    padding: 40px;
+}
+.str1{
+    text-align: center;
+}
+.dry{
+    display: flex;
+    justify-content: center;
+}
+.dryg{
+    font-size: 50px;
+    text-align: center;
+}
+.kt{
+    margin-right: 100px;
+}
+.kt1{
+    margin-left: 100px;
+}
+.per{
+    text-align: right;
+    font-size: 30px;
+    margin-right: 20px;
+}
+.per1{
+    text-align: left;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.pl{
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    height: auto;
+    width: 800px;
+    height: 800px;
+    background-color: #00b4d8;
+    border: solid;
+    border-radius: 1rem;
+    border-color: #caf0f8;
+    margin: 80px;
+    border: solid;
+    border-radius: 1rem;
+}
+.te{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    height: auto;
+    width: 800px;
+    height: 800px;
+    background-color: #00b4d8;
+    border: solid;
+    border-radius: 1rem;
+    border-color: #caf0f8;
+    margin: 80px;
+    border: solid;
+    border-radius: 1rem;
+}
+.tea{
+    display: flex;
+    justify-content: center;
+}
+.pla{
+    display: flex;
+    justify-content: center;
+}
+.dyr{
+    margin: auto;
+}
+.zag11{
+    font-size: 70px;
+    margin-left: 0px;
+    text-align: left;
+}
+@keyframes joi{
+    0% {transform: rotate(0deg);}
+    20% {transform: rotate(-45deg);}
+    60% {transform: rotate(45deg);}
+    100% {transform: rotate(360deg);}
+}
